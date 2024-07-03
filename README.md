@@ -6,3 +6,6 @@ timestamp, station name and temperature reading from the resulting json answer.
 - psweather.ps1 does more or less the same in Powershell 7
 - exmpl_shrt.json and exmpl_lng.json are for local testing without bothering the API
 
+  This code comes with absolutely no warranty. Use it as you see fit, the MIT License should be permissive enough.
+  Please be aware that I might not be very active here. 
+
